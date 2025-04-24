@@ -1,2 +1,2 @@
 # CRIME-TRENDS-IN-CITIES
-Analyzing urban crime data (2020–present) with Python. Includes EDA, visualizations, and an interactive Plotly Dash dashboard to explore crime trends by time, area, and type.
+Data analysis project that explores urban crime patterns using real-world crime data from 2020 to the present. The project includes data cleaning, exploratory data analysis (EDA), and interactive visualizations to identify trends based on time, location, crime type, and victim demographics. A dynamic dashboard built with Plotly Dash provides insightful, real-time filtering and visualization, helping users better understand crime dynamics in different city areas.
