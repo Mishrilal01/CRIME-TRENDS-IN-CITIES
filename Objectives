@@ -10,3 +10,5 @@
 4. Interactive Dashboard Development:
    To build a user-friendly and dynamic dashboard using Plotly Dash and Bootstrap. The dashboard will allow users to filter data based on year, area, crime type, victim’s age and gender, day of the week, and time of day, providing an interactive experience for exploring crime trends.
 
+5. Support for Decision-Making and Awareness:
+   To provide an analytical tool that can assist law enforcement agencies, researchers, and citizens in understanding crime distribution and trends. This tool can be used for making data-driven decisions, raising public awareness, and identifying high-risk zones and periods.
