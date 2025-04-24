@@ -4,3 +4,6 @@
 2. Exploratory Data Analysis (EDA):
    To perform in-depth exploratory analysis on the cleaned data to uncover meaningful trends and patterns. This includes identifying peak crime hours, monthly and yearly variations, area-wise crime frequency, gender and age-based victim analysis, and understanding the nature of crimes (violent/non-violent).
 
+3. Insightful Data Visualizations:
+   To design and create attractive and informative visualizations using Matplotlib, Seaborn, and Plotly. These visualizations will help communicate complex data in a clear and visually appealing way, making it easier to interpret trends and insights.
+
