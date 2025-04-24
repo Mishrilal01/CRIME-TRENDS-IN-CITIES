@@ -7,3 +7,6 @@
 3. Insightful Data Visualizations:
    To design and create attractive and informative visualizations using Matplotlib, Seaborn, and Plotly. These visualizations will help communicate complex data in a clear and visually appealing way, making it easier to interpret trends and insights.
 
+4. Interactive Dashboard Development:
+   To build a user-friendly and dynamic dashboard using Plotly Dash and Bootstrap. The dashboard will allow users to filter data based on year, area, crime type, victim’s age and gender, day of the week, and time of day, providing an interactive experience for exploring crime trends.
+
