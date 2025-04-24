@@ -1,3 +1,6 @@
 1. Data Cleaning and Preprocessing:
    To collect, clean, and preprocess real-world crime data from 2020 to the present. This includes handling missing values, correcting inconsistent formats, converting date-time fields, and extracting useful features such as year, month, hour, and day of the week to make the dataset suitable for analysis.
 
+2. Exploratory Data Analysis (EDA):
+   To perform in-depth exploratory analysis on the cleaned data to uncover meaningful trends and patterns. This includes identifying peak crime hours, monthly and yearly variations, area-wise crime frequency, gender and age-based victim analysis, and understanding the nature of crimes (violent/non-violent).
+
